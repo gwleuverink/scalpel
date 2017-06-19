@@ -13,9 +13,7 @@ class ScalpelServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-
         Concerns\ConditionalsDirectives::register();
-
     }
 
     /**
