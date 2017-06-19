@@ -16,7 +16,7 @@ If you'd like to see added features you can submit a PR.
 ## Intallation
 Add Scalpel to you project.
 ```
-composer require leuverink/scalpel
+composer require leuverink/scalpel dev-stable
 ```
 
 Update your composer dependencies.
