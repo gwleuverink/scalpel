@@ -1,6 +1,7 @@
 {
     "name": "leuverink/scalpel",
     "description": "This package adds extra directives to the Blade templating engine",
+    "minimum-stability": "dev",
     "type": "library",
     "require": {
         "illuminate/support": "^5.4",
