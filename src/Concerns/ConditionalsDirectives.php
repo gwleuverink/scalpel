@@ -1,15 +1,15 @@
 <?php
+
 namespace Leuverink\Scalpel\Concerns;
 
 use Illuminate\Support\Facades\Blade;
 
 /**
- * Class ConditionalsDirectives
+ * Class ConditionalsDirectives.
  */
-class ConditionalsDirectives 
+class ConditionalsDirectives
 {
-
-    public static function register ()
+    public static function register()
     {
         /*
          * Register @selectedif directive
