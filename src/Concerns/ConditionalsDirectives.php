@@ -5,9 +5,9 @@ use Illuminate\Support\Facades\Blade;
 
 /**
  * Class ConditionalsDirectives
- * @package Leuverink\Scalpel\Concerns
  */
-class ConditionalsDirectives {
+class ConditionalsDirectives 
+{
 
     public static function register ()
     {
