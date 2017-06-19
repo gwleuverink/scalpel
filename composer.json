@@ -11,6 +11,11 @@
         "mockery/mockery": "~0.9.4",
         "illuminate/view": "^5.4"
     },
+    "autoload": {
+        "psr-4": {
+            "Leuverink\\Scalpel\\": "src"
+        }
+    },
     "license": "MIT",
     "authors": [
         {
