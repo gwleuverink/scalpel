@@ -14,23 +14,12 @@ If you'd like to see added features you can submit a PR.
 
 
 ## Intallation
-Add this repository to your composer.json file
-
+Add Scalpel to you project.
 ```
-{
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/gwleuverink/scalpel/"
-        }
-    ],
-    "require": {
-        "leuverink/scalpel": "dev-stable"
-    }
-}
+composer require leuverink/scalpel
 ```
 
-update your composer dependencies.
+Update your composer dependencies.
 ```
 composer update
 ```
