@@ -1,4 +1,5 @@
 # Scalpel
+[![Latest Stable Version](https://poser.pugx.org/leuverink/scalpel/v/stable?format=flat-square)](https://packagist.org/packages/leuverink/scalpel)
 [![StyleCI Build Status](https://styleci.io/repos/94558450/shield)](https://styleci.io/repos/94558450)
 [![License](https://poser.pugx.org/leuverink/scalpel/license?format=flat-square)](https://packagist.org/packages/leuverink/scalpel)
 
@@ -20,7 +21,7 @@ If you'd like to see added features you can submit a PR.
 ## Intallation
 Add Scalpel to you project.
 ```
-composer require leuverink/scalpel dev-stable
+composer require leuverink/scalpel
 ```
 
 Update your composer dependencies.
