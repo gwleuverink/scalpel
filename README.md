@@ -6,8 +6,9 @@ If you'd like to see added features you can submit a PR.
 
 ## Extra directives
 
-| Directive                           | Description   			                                                       |
+| Directive                           | Description   			                                                   |
 | ----------------------------------- | -------------------------------------------------------------------------- |
+| @mix(resource)                      | Prints either a script or link html tag based on the file extension        |
 | @selectedif(expression)             | Print 'selected' if the expression is true                                 |
 | @checkedif(expression)              | Print 'checked' if the expression is true                                  |
 

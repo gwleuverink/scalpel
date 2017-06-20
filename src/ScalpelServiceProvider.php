@@ -3,6 +3,7 @@
 namespace Leuverink\Scalpel;
 
 use Illuminate\Support\ServiceProvider;
+use Leuverink\Scalpel\Repositories\ConcernRepository;
 
 class ScalpelServiceProvider extends ServiceProvider
 {
@@ -13,7 +14,13 @@ class ScalpelServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Concerns\ConditionalsDirectives::register();
+        $concerns = [
+            'Conditionals',
+            'Resources',
+            'Derps'
+        ];
+
+        ConcernRepository::register($concerns);
     }
 
     /**
