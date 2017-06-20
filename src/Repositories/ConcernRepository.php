@@ -16,7 +16,7 @@ namespace Leuverink\Scalpel\Repositories;
 class ConcernRepository
 {
     /**
-     * @param $concerns
+     * @array $concerns
      */
     public static function register ($concerns) {
 

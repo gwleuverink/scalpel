@@ -3,7 +3,9 @@ namespace Leuverink\Scalpel\Concerns;
 
 use Illuminate\Support\Facades\Blade;
 
-
+/**
+ * Class ResourcesDirectives
+ */
 class ResourcesDirectives
 {
     public static function register()
