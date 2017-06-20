@@ -16,7 +16,7 @@ class ScalpelServiceProvider extends ServiceProvider
     {
         $concerns = [
             'Conditionals',
-            'Resources'
+            'Resources',
         ];
 
         ConcernRepository::register($concerns);
