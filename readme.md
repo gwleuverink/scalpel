@@ -1,5 +1,6 @@
 # Scalpel
 [![Latest Stable Version](https://poser.pugx.org/leuverink/scalpel/v/stable?format=flat-square)](https://packagist.org/packages/leuverink/scalpel)
+[![Latest Unstable Version](https://poser.pugx.org/leuverink/scalpel/v/unstable?format=flat-square)](https://packagist.org/packages/leuverink/scalpel)
 [![StyleCI Build Status](https://styleci.io/repos/94558450/shield)](https://styleci.io/repos/94558450)
 [![License](https://poser.pugx.org/leuverink/scalpel/license?format=flat-square)](https://packagist.org/packages/leuverink/scalpel)
 
