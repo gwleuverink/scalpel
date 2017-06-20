@@ -1,4 +1,7 @@
 # Scalpel
+[![StyleCI Build Status](https://styleci.io/repos/94558450/shield)](https://styleci.io/repos/94558450)
+[![License](https://poser.pugx.org/leuverink/scalpel/license?format=flat-square)](https://packagist.org/packages/leuverink/scalpel)
+
 Scalpel is a composer package that adds extra directives to the Blade templating engine.
 *I do not recommend using this in production as I created this for personal use and I am not providing support of any kind. The package is provided as-is and you are free to do with it as you like, fork it, submit PR's e.t.c.*
 
