@@ -27,7 +27,7 @@
     "extra": {
     "laravel": {
       "providers": [
-        "Leuverink\\Scalpel\\ScalpelServiceProvider",
+        "Leuverink\\Scalpel\\ScalpelServiceProvider"
       ]
     }
   }
