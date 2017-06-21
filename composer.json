@@ -23,5 +23,12 @@
             "name": "gwleuverink",
             "email": "willem@mediacode.nl"
         }
-    ]
+    ],
+    "extra": {
+    "laravel": {
+      "providers": [
+        "Leuverink\\Scalpel\\ScalpelServiceProvider",
+      ]
+    }
+  }
 }
