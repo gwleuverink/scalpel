@@ -24,15 +24,9 @@ If you'd like to see added features you can submit a PR.
   ```
   composer require leuverink/scalpel
   ```
+  
 
-
-**2. Update your composer dependencies.**
-  ```
-  composer update
-  ```
-
-
-**3. Add the service provider to the providers array in config/app.php.**
+**2. Add the service provider to the providers array in config/app.php.**
 
   \* *Skip this step if you are on Laravel 5.5 or up.*
   ```
@@ -40,7 +34,7 @@ If you'd like to see added features you can submit a PR.
   ```
 
 
-**4. Before you can use the additional Blade directives you have to clear all compiled views.**
+**3. Before you can use the additional Blade directives you have to clear all compiled views.**
   ```
   php artisan view:clear
   ```
